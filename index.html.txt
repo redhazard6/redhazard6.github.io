@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="scripts.js" defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@400;700&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+    <title>Nico Carosella</title>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Nico Carosella</h1>
+        </div>
+        <div class="content">
+            <div class="buttons">
+                <a href="#" class="button instagram" title="Instagram"><i class="fab fa-instagram"></i></a>
+                <a href="#" class="button snapchat" title="Snapchat"><i class="fab fa-snapchat-ghost"></i></a>
+                <a href="#" class="button email" title="Personal Email"><i class="fas fa-envelope"></i></a>
+                <a href="#" class="button business-email" title="Business Email"><i class="fas fa-briefcase"></i></a>
+                <a href="#" class="button venmo" title="Venmo"><i class="fab fa-venmo"></i></a>
+                <a href="#" class="button business" title="Business Website"><i class="fas fa-globe"></i></a>
+            </div>
+            <div class="about">
+                <h2>About</h2>
+                <p>
+                    <!-- Add a 500-word about section here. -->
+                </p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
